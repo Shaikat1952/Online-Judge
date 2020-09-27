@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600959157 source:f:\online judge\p-01\main.cpp
+	<iostream>
+	<iomanip>
+
