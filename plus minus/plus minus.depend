@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601714332 source:f:\online judge\plus minus\main.c
+	<stdio.h>
+	<stdlib.h>
+

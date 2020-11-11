@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1601717909 source:f:\online judge\1072\main.cpp
+	<iostream>
+
+1601718483 source:f:\online judge\1072\main.c
+	<stdio.h>
+	<stdlib.h>
+

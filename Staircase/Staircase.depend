@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601615447 source:f:\online judge\staircase\main.c
+	<stdio.h>
+	<stdlib.h>
+
